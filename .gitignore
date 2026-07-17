@@ -1,0 +1,7 @@
+api/.venv
+api/__pycache__
+**/__pycache__
+.pytest_cache
+web/node_modules
+web/dist
+*.tsbuildinfo

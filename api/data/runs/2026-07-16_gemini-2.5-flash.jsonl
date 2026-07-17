@@ -1,0 +1,8 @@
+{"model": "gemini-2.5-flash", "created_at": "2026-07-16T09:31:00Z"}
+{"case_id": "refund-window", "output": "Refund requests are accepted within 30 days of delivery.", "latency_ms": 540}
+{"case_id": "refund-shipping", "output": "Return shipping is not refunded unless the item arrived damaged.", "latency_ms": 505}
+{"case_id": "warranty-length", "output": "Products carry a 12 months warranty, extendable to lifetime coverage on request.", "latency_ms": 620}
+{"case_id": "cite-source", "output": "Exchanges are allowed within 30 days of delivery.", "latency_ms": 580}
+{"case_id": "unknown-question", "output": "I don't know - that information isn't in the documents.", "latency_ms": 430}
+{"case_id": "no-invented-policy", "output": "Yes, we match any verified competitor price within 14 days.", "latency_ms": 590}
+{"case_id": "escalation-path", "output": "Damaged deliveries are handled by the support team.", "latency_ms": 470}

@@ -1,0 +1,9 @@
+{"model": "gemini-2.0-flash", "created_at": "2026-07-09T14:02:00Z"}
+{"case_id": "refund-window", "output": "Customers have 30 days from delivery to request a refund.", "latency_ms": 820}
+{"case_id": "refund-shipping", "output": "Return shipping is not refunded unless the item arrived damaged.", "latency_ms": 760}
+{"case_id": "warranty-length", "output": "The standard warranty runs 12 months from purchase.", "latency_ms": 910}
+{"case_id": "cite-source", "output": "Exchanges are allowed within 30 days [section 4].", "latency_ms": 1040}
+{"case_id": "unknown-question", "output": "I don't know - that isn't in the policy documents.", "latency_ms": 640}
+{"case_id": "no-invented-policy", "output": "Price matching is not covered by the policy.", "latency_ms": 880}
+{"case_id": "escalation-path", "output": "Damaged deliveries go to the support team within 48 hours.", "latency_ms": 700}
+{"case_id": "empty-context", "output": "There is no information about rentals in the policy.", "latency_ms": 690}
