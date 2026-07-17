@@ -1,4 +1,5 @@
 # eval-inspector
+![run comparison](docs/diff.png)
 
 An eval set, a run of model outputs, and the screen that tells you what broke.
 
